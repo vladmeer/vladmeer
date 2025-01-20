@@ -17,7 +17,7 @@ I believe that great results come from a product of great passion and my positiv
 - BullX fork
 - Pumpfun forking smart contract
 - Pumpfun snipper and bundler bot
-- Twitter raid telegram bot and twitter reply bot
+- Twitter twitter reply bot
 - Solana token frezzer, wallet track bot and shit-token launcher
 - Solana volume bot on moonshot and pumpfun
 - Raydium swap tx parse bot
