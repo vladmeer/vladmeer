@@ -11,6 +11,10 @@ I believe that great results come from a product of great passion and my positiv
 
 ## Recent Works 🔭
 - Solana trading bot (track all pools, buy / sell manually and automatically) - works on telegram
+- Copy trading bot with grpc - rust, typescript
+- Raydium sniper with grpc
+- Twitter scan bot
+- Bybit mirror bot
 - Raydium volume bot, bundler and sniper
 - Meteora DLMM and DYN volume bot, maker bot
 - CCTP-based solana/evm token bridge
