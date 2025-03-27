@@ -22,7 +22,7 @@ I believe that great results come from a product of great passion and my positiv
 - Pumpfun forking smart contract
 - Pumpfun snipper and bundler bot
 - Twitter twitter reply bot
-- Solana token frezzer, wallet track bot and shit-token launcher
+- Solana token freezer, wallet track bot and shit-token launcher
 - Solana volume bot on moonshot and pumpfun
 - Raydium swap tx parse bot
 - Copy trading bot
