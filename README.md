@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+David!;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Vladmeer!;Welcome+to+My+GitHub+Profile!" />
 </div>
 ## Hi there 👋
 - Solana web3 and smart contract lead dev
