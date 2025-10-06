@@ -11,6 +11,7 @@ I have been involved in software development since 2014, thanks to which knows w
 I believe that great results come from a product of great passion and my positive attitude and of proactive approach help me deliver these results in a very natural way.
 
 ## Recent Works 🔭
+- Memecoin trading platform - bundle, trading, sniping, copy trading
 - Solana trading bot (track all pools, buy / sell manually and automatically) - works on telegram
 - Copy trading bot with grpc - rust, typescript
 - Raydium sniper with grpc
