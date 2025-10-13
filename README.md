@@ -3,36 +3,29 @@
 </div>
 
 ## Hi there 👋
-- Solana web3 and smart contract lead dev
-- Full stack engineer
+- Solana & EVM full stack developer
+- Rust engineer
 
-As a skilled and passionate software developer for over 9 years of experience in Software(Web and App) development on front-end and back-end sides, I have a solid experience in back end development including Rust Smart Contract part.
-I have been involved in software development since 2014, thanks to which knows what it takes to come up with effective solutions to complex problems.
-I believe that great results come from a product of great passion and my positive attitude and of proactive approach help me deliver these results in a very natural way.
+I design and build intelligent, cross-chain solutions that bridge Solana, EVM, and AI technologies. From accessibility-driven applications to high-performance trading automation, I create impactful digital experiences powered by Rust and modern web frameworks.
 
 ## Recent Works 🔭
 - BNB token launchpad - fork four.meme
 - Four.meme trading bots - volume bot, sniper, bundler
 - Memecoin trading platform - bundle, trading, sniping, copy trading
-- Solana trading bot (track all pools, buy / sell manually and automatically) - works on telegram
+- Solana trading bot - fork trojan bot (track all pools, buy / sell manually and automatically) - works on telegram
 - Copy trading bot with grpc - rust, typescript
 - Raydium sniper with grpc
 - Twitter scan bot
-- Bybit mirror bot
+- Monkai multi-chain nft experiment
 - Raydium volume bot, bundler and sniper
 - Meteora DLMM and DYN volume bot, maker bot
-- CCTP-based solana/evm token bridge
+- Chainswap - multichain swap platform ( CCTP / CCIP )
 - BullX fork
 - Pumpfun forking smart contract
 - Pumpfun snipper and bundler bot
 - Twitter twitter reply bot
 - Solana token freezer, wallet track bot and shit-token launcher
-- Solana volume bot on moonshot and pumpfun
-- Raydium swap tx parse bot
-- Copy trading bot
-- Token track bot on solana
-- Pumpfun auto trading bot
-- Paper trading bot
+- Teddis nft shop - multi sign at once
 
 ### My GitHub Stats
 <a href="http://www.github.com/vladmeer"><img src="https://github-readme-stats.vercel.app/api?username=vladmeer&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Vladmeer's GitHub stats" /></a>
