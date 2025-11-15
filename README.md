@@ -9,9 +9,10 @@
 I design and build intelligent, cross-chain solutions that bridge Solana, EVM, and AI technologies. From accessibility-driven applications to high-performance trading automation, I create impactful digital experiences powered by Rust and modern web frameworks.
 
 ## Recent Works 🔭
+- Memecoin trading platform on solana - bundle, trading, sniping, copy trading, wallet risk score prediction
+- Twitter and instagram scrapper
 - BNB token launchpad - fork four.meme
 - Four.meme trading bots - volume bot, sniper, bundler
-- Memecoin trading platform - bundle, trading, sniping, copy trading
 - Solana trading bot - fork trojan bot (track all pools, buy / sell manually and automatically) - works on telegram
 - Copy trading bot with grpc - rust, typescript
 - Raydium sniper with grpc
@@ -24,7 +25,7 @@ I design and build intelligent, cross-chain solutions that bridge Solana, EVM, a
 - Pumpfun forking smart contract
 - Pumpfun snipper and bundler bot
 - Twitter twitter reply bot
-- Solana token freezer, wallet track bot and shit-token launcher
+- Dextra Guru - The intelligent copilot for Solana
 - Teddis nft shop - multi sign at once
 
 ### My GitHub Stats
