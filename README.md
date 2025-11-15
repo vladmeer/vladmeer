@@ -14,6 +14,8 @@ I design and build intelligent, cross-chain solutions that bridge Solana, EVM, a
 - BNB token launchpad - fork four.meme
 - Four.meme trading bots - volume bot, sniper, bundler
 - Solana trading bot - fork trojan bot (track all pools, buy / sell manually and automatically) - works on telegram
+- Solana Ai Agent - liquidity pool management based on Eliza Framwork
+- Pumpfun forking project(Smart contract, Backend, Frontend)
 - Copy trading bot with grpc - rust, typescript
 - Raydium sniper with grpc
 - Twitter scan bot
@@ -22,11 +24,12 @@ I design and build intelligent, cross-chain solutions that bridge Solana, EVM, a
 - Meteora DLMM and DYN volume bot, maker bot
 - Chainswap - multichain swap platform ( CCTP / CCIP )
 - BullX fork
+- Dextra Guru - The intelligent copilot for Solana
 - Pumpfun forking smart contract
 - Pumpfun snipper and bundler bot
 - Twitter twitter reply bot
-- Dextra Guru - The intelligent copilot for Solana
 - Teddis nft shop - multi sign at once
+- Cupid AI - Stop Overthinking Your Texts
 
 ### My GitHub Stats
 <a href="http://www.github.com/vladmeer"><img src="https://github-readme-stats.vercel.app/api?username=vladmeer&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Vladmeer's GitHub stats" /></a>
