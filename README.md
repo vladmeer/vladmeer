@@ -5,7 +5,7 @@
     <p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=vladmeer&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
-
+<div align="left"></div>
 ## Hi there 👋
 - Solana & EVM, AI full stack developer
 - Rust engineer
