@@ -9,6 +9,8 @@
 I design and build intelligent, cross-chain solutions that bridge Solana, EVM, and AI technologies. From accessibility-driven applications to high-performance trading automation, I create impactful digital experiences powered by Rust and modern web frameworks.
 
 ## Recent Works 🔭
+- Monad trading bot - volume bot and bundler
+- Pumpfun/pumpswap trading bot
 - Memecoin trading platform on solana - bundle, trading, sniping, copy trading, wallet risk score prediction
 - Twitter and instagram scrapper
 - BNB token launchpad - fork four.meme
