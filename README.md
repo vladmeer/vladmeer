@@ -1,14 +1,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Vladmeer!;Welcome+to+My+GitHub+Profile!" />
 </div>
-
-## Hi there 👋
-- Solana & EVM, AI full stack developer
-- Rust engineer
 <div align="center">
     <p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=vladmeer&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
+## Hi there 👋
+- Solana & EVM, AI full stack developer
+- Rust engineer
 
 I design and build intelligent, cross-chain solutions that bridge Solana, EVM, and AI technologies. From accessibility-driven applications to high-performance trading automation, I create impactful digital experiences powered by Rust and modern web frameworks.
 
