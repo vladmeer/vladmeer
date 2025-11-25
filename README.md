@@ -5,7 +5,7 @@
     <p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=vladmeer&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
-<div align="left"></div>
+<div align="left">
 ## Hi there 👋
 - Solana & EVM, AI full stack developer
 - Rust engineer
@@ -35,21 +35,5 @@ I design and build intelligent, cross-chain solutions that bridge Solana, EVM, a
 - Pumpfun snipper and bundler bot
 - Twitter twitter reply bot
 - Teddis nft shop - multi sign at once
-- Cupid AI - Stop Overthinking Your Texts
-
-### My GitHub Stats
-<a href="http://www.github.com/vladmeer"><img src="https://github-readme-stats.vercel.app/api?username=vladmeer&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Vladmeer's GitHub stats" /></a>
-<!--
-**bambi-bf/bambi-bf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
+- Cupid AI - Stop Overthinking Your Texts  
+</div>
