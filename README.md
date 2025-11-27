@@ -15,6 +15,7 @@ I design and build intelligent, cross-chain solutions that bridge Solana, EVM, a
 
 ## Recent Works 🔭
 - Monad trading bot - volume bot, sniper and bundler
+- Pumpfun sniper with jito shredstream proxy - sniping and buy at first after launch
 - Pumpfun/pumpswap trading bot
 - Memecoin trading platform on solana - bundle, trading, sniping, copy trading, wallet risk score prediction
 - Twitter and instagram scrapper
