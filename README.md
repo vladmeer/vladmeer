@@ -14,7 +14,7 @@
 I design and build intelligent, cross-chain solutions that bridge Solana, EVM, and AI technologies. From accessibility-driven applications to high-performance trading automation, I create impactful digital experiences powered by Rust and modern web frameworks.
 
 ## Recent Works 🔭
-- Polymarket trading bot - copy trading bot, arbitrage bot
+- Polymarket trading bot - copy trading bot, arbitrage bot, sniper bot, monitoring bot
 - Monad trading bot - volume bot, sniper and bundler
 - Pumpfun sniper with jito shredstream proxy - sniping and buy at first after launch
 - Pumpfun/pumpswap trading bot
